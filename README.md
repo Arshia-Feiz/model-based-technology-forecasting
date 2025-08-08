@@ -113,9 +113,21 @@ model-based-technology-forecasting/
 │   │   └── competitive_landscape.png
 │   └── analysis/
 │       └── best_response_analysis.csv
+├── documentation/
+│   └── Recreating_Model_based_approaches.pdf
 └── documentation/
     └── methodology_notes.md
 ```
+
+## 📄 Documentation
+
+This project includes comprehensive PDF documentation that provides:
+- **Research Reproduction**: Complete methodology from original paper
+- **Data Substitution**: Detailed approach to using public datasets
+- **Competitive Analysis**: In-depth game-theoretic modeling
+- **Validation Results**: Comparison with original research findings
+
+**📖 View Documentation**: [Recreating_Model_based_approaches.pdf](documentation/Recreating_Model_based_approaches.pdf)
 
 ## 🔬 Research Applications
 
