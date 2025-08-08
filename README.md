@@ -127,7 +127,7 @@ This project includes comprehensive PDF documentation that provides:
 - **Competitive Analysis**: In-depth game-theoretic modeling
 - **Validation Results**: Comparison with original research findings
 
-**📖 View Documentation**: [Recreating_Model_based_approaches.pdf](https://drive.google.com/file/d/1oD91m2wcz8SscpBb8LsGMIxGsNeQ2J45/view?usp=share_link)
+**📖 View Documentation**: [Recreating_Model_based_approaches.pdf](https://drive.google.com/file/d/1TNUEyuCLyP_Y_p4T4_tt8QTLUr09h9yn/view?usp=sharing)
 
 ## 🔬 Research Applications
 
